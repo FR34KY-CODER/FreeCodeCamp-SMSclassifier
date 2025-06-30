@@ -28,10 +28,10 @@ pip install tensorflow
 pip install tensorflow-datasets
 pip install pandas numpy matplotlib
 
-bash
-wget https://cdn.freecodecamp.org/project-data/sms/train-data.tsv
-wget https://cdn.freecodecamp.org/project-data/sms/valid-data.tsv
-
+```
+!wget https://cdn.freecodecamp.org/project-data/sms/train-data.tsv
+!wget https://cdn.freecodecamp.org/project-data/sms/valid-data.tsv
+```
 ---
 
 ## 🧠 Model Architecture
@@ -104,6 +104,10 @@ All predictions must match expected labels ("ham" or "spam") for success.
 
 ---
 
+## Colab Notebook Link (version problems)
+```
+https://colab.research.google.com/drive/1s7oLDkVU_kBd1biHSb7nmPi6Coq1gkze?authuser=2#scrollTo=lMHwYXHXCar3
+```
 ## 🏆 Certificate
 
 Upon passing the test suite, FreeCodeCamp awards a certificate for this project as part of their Machine Learning curriculum.
